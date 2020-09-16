@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20190801 at Sat Sep 29 19:19:35 2018
+ By Unknown
+</metadata>
+<defs>
+<font id="icomoon" horiz-adv-x="0" >
+  <font-face 
+    font-family="icomoon"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1024"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="960"
+    descent="-64"
+    bbox="0 -64 1353 960"
+    underline-thickness="0"
+    underline-position="0"
+    unicode-range="U+0001-FFFD"
+  />
+<missing-glyph horiz-adv-x="1024" 
+ />
+    <glyph glyph-name=".notdef" unicode="&#xfffd;" horiz-adv-x="1024" 
+ />
+    <glyph glyph-name="glyph1" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="glyph1" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="uni0001" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="512" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="uniE900" unicode="&#xe900;" horiz-adv-x="1353" 
+d="M425 365l-154 154l-156 -94l-115 115l748 420l119 -119l-420 -748l-115 115l93 157v0zM928 531l154 -154l156 94l115 -115l-749 -420l-118 119l420 748l115 -115l-93 -157v0z" />
+  </font>
+</defs></svg>
